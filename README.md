@@ -25,5 +25,5 @@ Construyendo sueños, línea de código a línea de código. 💻💙
 
 
 
-🔗 ¡Conéctemos en LinkedIn! [![LinkedIn](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png)](www.linkedin.com/in/juana-gonzález-fuenzalida-0647b21b)
-📧 ¡Conéctemos por correo electrónico! [![Correo electrónico](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-16x16.png)](janagonzalez.f@gmail.com)
+🔗 ¡Conéctemos en LinkedIn! [Mi perfil de LinkedIn](https://www.linkedin.com/in/juana-gonzález-fuenzalida-0647b21b)
+📧 ¡Conéctemos por correo electrónico! [janagonzalez.f@gmail.com](mailto:janagonzalez.f@gmail.com)
