@@ -23,5 +23,7 @@ Soy Juana, una apasionada aspirante a desarrolladora full stack en busca de opor
 Construyendo sueños, línea de código a línea de código. 💻💙
 
 
-Si quieres contactarme, escríbeme a :
-janagonzalez.f@gmail.com o gonzalez.f.jana@gmail.com
+
+🔗 ¡Conéctemos en LinkedIn!
+   janagonzalez.f@gmail.com o gonzalez.f.jana@gmail.com
+
